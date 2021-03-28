@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799702471181",
+    "project_id": "bradesco-clone",
+    "storage_bucket": "bradesco-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799702471181:android:edd651d254ff990ad77b44",
+        "android_client_info": {
+          "package_name": "com.tonon.bradescoclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799702471181-p9v5ho5ggcdoea5e5keolq9u5vglkgi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YFlxJNK6-hZLMW1m28KkibZfUUpr8Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799702471181-p9v5ho5ggcdoea5e5keolq9u5vglkgi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
